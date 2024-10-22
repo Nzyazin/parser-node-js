@@ -3494,19 +3494,61 @@ let products = [
 ;
 
 // Функция для получения цены с указанной ссылки
-async function fetchPrice(url) {
+async function fetchPrices(url) {
     try {
         const response = await axios.get(url);
         const html = response.data;
         const $ = cheerio.load(html);
 
-        // Измените селектор на правильный, который соответствует месту нахождения цены на странице
-        const priceText = $('.product-buy__price').text().trim();
+        const price = $('.product-buy__price');
+        const priceBenefitExists = $('.product-buy__price-benefit');
+        const priceMarkExists = $('.product-buy__mark');
+        let priceText;
 
-        // Извлекаем цену как число
-        const price = parseFloat(priceText.replace(/[^\d]/g, ''));
+        if (price.length > 1) {
+            // Если два элемента, возьмем второй
+            priceText = price.eq(1).text().trim();
+        } else if (price.length === 1) {
+            // Если один элемент, возьмем его
+            priceText = price.eq(0).text().trim();
+        } else {
+            // Если элементов нет
+            priceText = 0;
+        }
 
-        return price;
+        let priceBen
+        if (priceBenefitExists.length > 1) {
+            // Если два элемента, возьмем второй
+            priceBen = priceBenefitExists.eq(1).text().trim();
+        } else if (priceBenefitExists.length === 1) {
+            // Если один элемент, возьмем его
+            priceBen = priceBenefitExists.eq(0).text().trim();
+        } else {
+            // Если элементов нет
+            priceBen = 0;
+        }
+
+        let priceMark
+        if (priceMarkExists.length > 1) {
+            // Если два элемента, возьмем второй
+            priceMark = priceMarkExists.eq(1).text().trim();
+        } else if (priceMarkExists.length === 1) {
+            // Если один элемент, возьмем его
+            priceMark = priceMarkExists.eq(0).text().trim();
+        } else {
+            // Если элементов нет
+            priceMark = 0;
+        }
+
+        const priceInt = parseInt(priceText.replace(/\s+/g, ''), 10);
+        priceBen = parseInt(priceBen.replace(/\s+/g, ''), 10);
+        priceMark = parseInt(priceMark.replace(/\s+/g, ''), 10);
+
+        return {
+            wholePrice: priceInt,
+            oldWholePrice: priceBen,
+            mark: priceMark
+        }
     } catch (error) {
         console.error(`Ошибка при получении цены с ${url}:`, error.message);
         return null;
@@ -3519,17 +3561,20 @@ async function updateProductPrices() {
         const url = product.vendor.uri;
         console.log(`Получение цены для ${product.name} с ${url}`);
 
-        const price = await fetchPrice(url);
+        const prices = await fetchPrices(url);
 
-        if (price !== null) {
-            product.retailPrice = price;
-            console.log(`Цена для ${product.name}: ${price}`);
+        if (prices !== null) {
+            product.wholesalePrice = prices.wholePrice;
+            product.oldWholePrice = prices.oldWholePrice;
+            product.mark = prices.mark;
         } else {
-            console.log(`Не удалось получить цену для ${product.name}`);
+            console.log(`Не удалось получить цену для ${product.name} с ${url}`);
+            product.wholesalePrice = 0;
+            product.oldWholePrice = 0;
+            product.mark = 0;
         }
     }
 
-    console.log("Обновленные данные продуктов:", JSON.stringify(products, null, 2));
 }
 
 // Запуск обновления цен
