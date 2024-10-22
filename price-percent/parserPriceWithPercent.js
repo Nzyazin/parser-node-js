@@ -3501,7 +3501,7 @@ async function fetchPrice(url) {
         const $ = cheerio.load(html);
 
         // Измените селектор на правильный, который соответствует месту нахождения цены на странице
-        const priceText = $('.product-price').text().trim();
+        const priceText = $('.product-buy__price').text().trim();
 
         // Извлекаем цену как число
         const price = parseFloat(priceText.replace(/[^\d]/g, ''));
