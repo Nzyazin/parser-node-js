@@ -3490,8 +3490,7 @@ let products = [
             ],
             "relatedColor": [115, 116, 117]
         }
-    ]
-;
+    ];
 
 // Функция для получения цены с указанной ссылки
 async function fetchPrices(url) {
@@ -3539,10 +3538,18 @@ async function fetchPrices(url) {
             // Если элементов нет
             priceMark = 0;
         }
+        let priceInt;
+        if (priceText !== 0) {
+            priceInt = parseInt(priceText.replace(/\s+/g, ''), 10);
+        }
 
-        const priceInt = parseInt(priceText.replace(/\s+/g, ''), 10);
-        priceBen = parseInt(priceBen.replace(/\s+/g, ''), 10);
-        priceMark = parseInt(priceMark.replace(/\s+/g, ''), 10);
+        if (priceBen !== 0) {
+            priceBen = parseInt(priceBen.replace(/\s+/g, ''), 10);
+        }
+
+        if (priceMark !== 0) {
+            priceMark = parseInt(priceMark.replace(/\s+/g, ''), 10);
+        }
 
         return {
             wholePrice: priceInt,
