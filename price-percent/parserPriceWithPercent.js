@@ -1,5 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 
 // Функция для получения цены с указанной ссылки
@@ -61,7 +62,6 @@ async function fetchPrices(url) {
             priceMark = parseInt(priceMark.replace(/\s+/g, ''), 10);
         }
 
-        console.log("priceInt, priceMark, priceBen", priceInt, priceMark, priceBen)
         return {
             priceInt,
             priceBen,
@@ -3480,6 +3480,14 @@ async function updateProductPrices() {    // Данные продуктов
             product.mark = 0;
         }
     }
+
+    fs.writeFile('products.json', JSON.stringify(products, null, 2), (err) => {
+        if (err) {
+            console.error('Ошибка при сохранении файла:', err);
+        } else {
+            console.log('Данные успешно сохранены в products.json');
+        }
+    });
 }
 
 // Запуск обновления цен
