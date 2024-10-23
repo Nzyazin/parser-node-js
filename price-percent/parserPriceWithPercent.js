@@ -10,7 +10,6 @@ async function fetchPrices(url) {
         const $ = cheerio.load(html);
 
         const price = $('.product-buy__price');
-        c
         const priceBenefitExists = $('.product-buy__price-benefit');
         const priceMarkExists = $('.product-buy__mark');
 
@@ -62,6 +61,7 @@ async function fetchPrices(url) {
             priceMark = parseInt(priceMark.replace(/\s+/g, ''), 10);
         }
 
+        console.log("priceInt, priceMark, priceBen", priceInt, priceMark, priceBen)
         return {
             priceInt,
             priceBen,
@@ -2641,39 +2641,6 @@ let products = [
             "relatedColor": [89]
         },
         {
-            "id": 90,
-            "name": "Хит 25мм с подлокот&shy;никами",
-            "slug": "khit-25mm-s-podlokotnikami",
-            "category": "podlokotniki",
-            "color": "Коричневый",
-            "vendor": {
-                "uri": "https://chiedocover.ru/product/khit-25mm-s-podlokotnikami"
-            },
-            "wholesalePrice": 2500,
-            "retailPrice": 3790,
-            "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
-            ],
-            "images": [
-                "product-90-1"
-            ],
-            "relatedCategory": [
-                {
-                    "name": "profile25",
-                    "value": "25 мм",
-                    "slug": "khit-25mm-s-podlokotnikami"
-                }
-            ],
-            "relatedColor": [90, 92, 98, 99]
-        },
-        {
             "id": 91,
             "name": "Хит 25мм с подлокот&shy;никами шампань, Afitap",
             "slug": "stul-khit-25mm-s-podlokotnikami-shampan-afitap",
@@ -2742,39 +2709,6 @@ let products = [
                 }
             ],
             "relatedColor": [90, 92, 98, 99]
-        },
-        {
-            "id": 93,
-            "name": "Хит 20мм с подлокот&shy;никами",
-            "slug": "khit-20mm-s-podlokotnikami",
-            "category": "podlokotniki",
-            "color": "Черный",
-            "vendor": {
-                "uri": "https://chiedocover.ru/product/khit-20mm-s-podlokotnikami"
-            },
-            "wholesalePrice": 2150,
-            "retailPrice": 3290,
-            "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "7,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
-            ],
-            "images": [
-                "product-93-1",
-                "product-93-2"
-            ],
-            "relatedCategory": [
-                {
-                    "name": "profile20",
-                    "value": "20 мм",
-                    "slug": "khit-20mm-s-podlokotnikami"
-                }
-            ],
-            "relatedColor": [93, 100, 101]
         },
         {
             "id": 94,
@@ -2986,41 +2920,6 @@ let products = [
                     "name": "profile20",
                     "value": "20 мм",
                     "slug": "khit-20mm-s-podlokotnikami-layt"
-                }
-            ],
-            "relatedColor": [93, 100, 101]
-        },
-        {
-            "id": 101,
-            "name": "Хит 20мм с подлокот&shy;никами, алюминие&shy;вый каркас",
-            "slug": "khit-20mm-s-podlokotnikami-alyuminiyevyy-karkas",
-            "category": "podlokotniki",
-            "color": "Черный",
-            "vendor": {
-                "uri": "https://chiedocover.ru/product/khit-20mm-s-podlokotnikami-alyuminiyevyy-karkas"
-            },
-            "wholesalePrice": 4590,
-            "retailPrice": 6890,
-            "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "алюминий", "unit": "" }
-            ],
-            "images": [
-                "product-101-1",
-                "product-101-2",
-                "product-101-3",
-                "product-101-4"
-            ],
-            "relatedCategory": [
-                {
-                    "name": "profile20",
-                    "value": "20 мм",
-                    "slug": "khit-20mm-s-podlokotnikami-alyuminiyevyy-karkas"
                 }
             ],
             "relatedColor": [93, 100, 101]
@@ -3560,8 +3459,7 @@ let products = [
             ],
             "relatedColor": [115, 116, 117]
         }
-    ]
-;
+    ];
 // Функция для обновления данных продукта с новой ценой
 async function updateProductPrices() {    // Данные продуктов
 
@@ -3570,8 +3468,6 @@ async function updateProductPrices() {    // Данные продуктов
         console.log(`Получение цены для ${product.name} с ${url}`);
 
         const prices = await fetchPrices(url);
-        console.log("prices", prices.priceMark, prices.priceInt, prices.priceBen)
-        console.log("product", product.wholesalePrice, product.oldWholePrice, product.mark)
 
         if (prices !== null) {
             product.wholesalePrice = prices.priceInt;
