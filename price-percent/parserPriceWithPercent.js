@@ -85,14 +85,46 @@ let products = [
             "wholesalePrice": 2050,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "460", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": ""},
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "460",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-1-1",
@@ -114,7 +146,27 @@ let products = [
                     "slug": "khit-20mm-zoloto-krasnaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 3484
         },
         {
             "id": 2,
@@ -127,14 +179,46 @@ let products = [
             },
             "wholesalePrice": 4290,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": ""},
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-2-1",
@@ -152,7 +236,27 @@ let products = [
                     "slug": "khit-20mm-alyuminiyevyy-karkas"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 52
         },
         {
             "id": 3,
@@ -165,13 +269,41 @@ let products = [
             },
             "wholesalePrice": 2200,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-3-1",
@@ -184,7 +316,15 @@ let products = [
                     "slug": "hit-khrom-kozhzam-fioletovyy"
                 }
             ],
-            "relatedColor": [3, 4, 9, 39, 41, 81]
+            "relatedColor": [
+                3,
+                4,
+                9,
+                39,
+                41,
+                81
+            ],
+            "vendorId": 82
         },
         {
             "id": 4,
@@ -198,13 +338,41 @@ let products = [
             "wholesalePrice": 2100,
             "retailPrice": 3190,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "460", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "кожзам", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "460",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "кожзам",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-4-1",
@@ -223,7 +391,15 @@ let products = [
                     "slug": "khit-20mm-kozhzam"
                 }
             ],
-            "relatedColor": [3, 4, 9, 39, 41, 81]
+            "relatedColor": [
+                3,
+                4,
+                9,
+                39,
+                41,
+                81
+            ],
+            "vendorId": 270
         },
         {
             "id": 5,
@@ -237,13 +413,41 @@ let products = [
             "wholesalePrice": 2000,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "460", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "460",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-5-1",
@@ -265,7 +469,27 @@ let products = [
                     "slug": "khit-20mm-zoloto-korona-zelenaya"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 350
         },
         {
             "id": 6,
@@ -279,13 +503,41 @@ let products = [
             "wholesalePrice": 1850,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "460", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "460",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-6-1",
@@ -307,7 +559,27 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-korona-sinyaya"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 351
         },
         {
             "id": 7,
@@ -321,13 +593,41 @@ let products = [
             "wholesalePrice": 2000,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "460", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "460",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-7-1",
@@ -349,7 +649,27 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-korichnevaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 352
         },
         {
             "id": 8,
@@ -363,13 +683,41 @@ let products = [
             "wholesalePrice": 2950,
             "retailPrice": 4490,
             "characteristics": [
-                { "name": "Ширина", "value" : "470", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "460", "unit": "мм" },
-                { "name": "Вес", "value" : "7,7", "unit": "кг" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "470",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "460",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "7,7",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-8-1",
@@ -385,7 +733,27 @@ let products = [
                     "slug": "hit-s-shirokim-sideniem"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 666
         },
         {
             "id": 9,
@@ -398,14 +766,46 @@ let products = [
             },
             "wholesalePrice": 2100,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "кожзам", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "кожзам",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-9-1",
@@ -420,7 +820,15 @@ let products = [
                     "slug": "khit-25mm-belyy-kozhzam-belyy"
                 }
             ],
-            "relatedColor": [3, 4, 9, 39, 41, 81]
+            "relatedColor": [
+                3,
+                4,
+                9,
+                39,
+                41,
+                81
+            ],
+            "vendorId": 581
         },
         {
             "id": 10,
@@ -434,14 +842,46 @@ let products = [
             "wholesalePrice": 1850,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-10-1",
@@ -455,7 +895,15 @@ let products = [
                     "slug": "khit-25mm-zoloto-bezhevyy-romb"
                 }
             ],
-            "relatedColor": [10, 11, 19, 28, 43, 79]
+            "relatedColor": [
+                10,
+                11,
+                19,
+                28,
+                43,
+                79
+            ],
+            "vendorId": 582
         },
         {
             "id": 11,
@@ -469,13 +917,41 @@ let products = [
             "wholesalePrice": 1850,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-11-1"
@@ -487,7 +963,15 @@ let products = [
                     "slug": "khit-25mm-zoloto-zelenyy-romb"
                 }
             ],
-            "relatedColor": [10, 11, 19, 28, 43, 79]
+            "relatedColor": [
+                10,
+                11,
+                19,
+                28,
+                43,
+                79
+            ],
+            "vendorId": 583
         },
         {
             "id": 12,
@@ -501,13 +985,41 @@ let products = [
             "wholesalePrice": 1900,
             "retailPrice": 2890,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "шенилл", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "шенилл",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-12-1",
@@ -522,7 +1034,17 @@ let products = [
                     "slug": "khit-25mm-krasnoye-derevo-shenill-bezhevyy"
                 }
             ],
-            "relatedColor": [12, 21, 23, 24, 34, 51, 70, 75]
+            "relatedColor": [
+                12,
+                21,
+                23,
+                24,
+                34,
+                51,
+                70,
+                75
+            ],
+            "vendorId": 585
         },
         {
             "id": 13,
@@ -536,13 +1058,41 @@ let products = [
             "wholesalePrice": 1850,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-13-1",
@@ -562,7 +1112,15 @@ let products = [
                     "slug": "khit-20mm-zoloto-arsh-temno-korichnevyj"
                 }
             ],
-            "relatedColor": [13, 18, 20, 45, 54, 82]
+            "relatedColor": [
+                13,
+                18,
+                20,
+                45,
+                54,
+                82
+            ],
+            "vendorId": 592
         },
         {
             "id": 14,
@@ -573,17 +1131,44 @@ let products = [
             "vendor": {
                 "uri": "https://chiedocover.ru/product/khit-25mm-korichnevyy-kron-zelenyy"
             },
-
             "wholesalePrice": 1850,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "460", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "460",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-14-1",
@@ -598,7 +1183,10 @@ let products = [
                     "slug": "khit-25mm-korichnevyy-kron-zelenyy"
                 }
             ],
-            "relatedColor": [14]
+            "relatedColor": [
+                14
+            ],
+            "vendorId": 598
         },
         {
             "id": 15,
@@ -612,14 +1200,46 @@ let products = [
             "wholesalePrice": 1850,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "460", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "460",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-15-1",
@@ -634,7 +1254,15 @@ let products = [
                     "slug": "khit-25mm-zoloto-rogozhka-krasnaya"
                 }
             ],
-            "relatedColor": [15, 25, 37, 47, 49, 50]
+            "relatedColor": [
+                15,
+                25,
+                37,
+                47,
+                49,
+                50
+            ],
+            "vendorId": 613
         },
         {
             "id": 16,
@@ -648,13 +1276,41 @@ let products = [
             "wholesalePrice": 3940,
             "retailPrice": 5990,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "алюминий", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "алюминий",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-16-1",
@@ -670,7 +1326,27 @@ let products = [
                     "slug": "khit-25mm-alyuminiyevyy-karkas-zoloto-zelenaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 763
         },
         {
             "id": 18,
@@ -684,14 +1360,46 @@ let products = [
             "wholesalePrice": 1800,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-18-1"
@@ -703,7 +1411,15 @@ let products = [
                     "slug": "khit-25mm-salatovyy-arsh"
                 }
             ],
-            "relatedColor": [13, 18, 20, 45, 54, 82]
+            "relatedColor": [
+                13,
+                18,
+                20,
+                45,
+                54,
+                82
+            ],
+            "vendorId": 941
         },
         {
             "id": 19,
@@ -717,13 +1433,41 @@ let products = [
             "wholesalePrice": 2000,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-19-1",
@@ -739,7 +1483,15 @@ let products = [
                     "slug": "khit-25mm-chernyy-siniy-romb-s-naruzhnimi-zaglushkami"
                 }
             ],
-            "relatedColor": [10, 11, 19, 28, 43, 79]
+            "relatedColor": [
+                10,
+                11,
+                19,
+                28,
+                43,
+                79
+            ],
+            "vendorId": 1014
         },
         {
             "id": 20,
@@ -753,13 +1505,41 @@ let products = [
             "wholesalePrice": 2000,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-20-1",
@@ -779,7 +1559,15 @@ let products = [
                     "slug": "stul-khit-20mm-shampan-arsh-bezhevyy"
                 }
             ],
-            "relatedColor": [13, 18, 20, 45, 54, 82]
+            "relatedColor": [
+                13,
+                18,
+                20,
+                45,
+                54,
+                82
+            ],
+            "vendorId": 1015
         },
         {
             "id": 21,
@@ -793,14 +1581,46 @@ let products = [
             "wholesalePrice": 1950,
             "retailPrice": 2990,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "шенилл", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "шенилл",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-21-1"
@@ -812,7 +1632,17 @@ let products = [
                     "slug": "khit-25mm-shenill-svetlo-zelenyy"
                 }
             ],
-            "relatedColor": [12, 21, 23, 24, 34, 51, 70, 75]
+            "relatedColor": [
+                12,
+                21,
+                23,
+                24,
+                34,
+                51,
+                70,
+                75
+            ],
+            "vendorId": 1021
         },
         {
             "id": 22,
@@ -826,13 +1656,41 @@ let products = [
             "wholesalePrice": 4300,
             "retailPrice": 6490,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "микровельвет", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "микровельвет",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-22-1",
@@ -850,7 +1708,10 @@ let products = [
                     "slug": "khit-25mm-s-vyshivkoy-gerb-rf"
                 }
             ],
-            "relatedColor": [2]
+            "relatedColor": [
+                2
+            ],
+            "vendorId": 1210
         },
         {
             "id": 23,
@@ -864,13 +1725,41 @@ let products = [
             "wholesalePrice": 1950,
             "retailPrice": 2990,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "Шенилл", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "Шенилл",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-23-1",
@@ -884,7 +1773,17 @@ let products = [
                     "slug": "khit-25mm-shenill-bordovyy"
                 }
             ],
-            "relatedColor": [12, 21, 23, 24, 34, 51, 70, 75]
+            "relatedColor": [
+                12,
+                21,
+                23,
+                24,
+                34,
+                51,
+                70,
+                75
+            ],
+            "vendorId": 1739
         },
         {
             "id": 24,
@@ -898,14 +1797,46 @@ let products = [
             "wholesalePrice": 1950,
             "retailPrice": 2990,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "шенилл", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "шенилл",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-24-1"
@@ -917,7 +1848,17 @@ let products = [
                     "slug": "khit-25mm-shenill-temno-bezhevyy"
                 }
             ],
-            "relatedColor": [12, 21, 23, 24, 34, 51, 70, 75]
+            "relatedColor": [
+                12,
+                21,
+                23,
+                24,
+                34,
+                51,
+                70,
+                75
+            ],
+            "vendorId": 1740
         },
         {
             "id": 25,
@@ -931,14 +1872,46 @@ let products = [
             "wholesalePrice": 1850,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-25-1",
@@ -952,7 +1925,15 @@ let products = [
                     "slug": "khit-25mm-rogozhka-bezhevaya"
                 }
             ],
-            "relatedColor": [15, 25, 37, 47, 49, 50]
+            "relatedColor": [
+                15,
+                25,
+                37,
+                47,
+                49,
+                50
+            ],
+            "vendorId": 1742
         },
         {
             "id": 26,
@@ -966,13 +1947,41 @@ let products = [
             "wholesalePrice": 2000,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-26-1",
@@ -987,7 +1996,27 @@ let products = [
                     "slug": "stul-khit-25mm-serebro-sinyaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 2773
         },
         {
             "id": 27,
@@ -1001,13 +2030,41 @@ let products = [
             "wholesalePrice": 2050,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-27-1",
@@ -1027,7 +2084,27 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-bezhevaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 2825
         },
         {
             "id": 28,
@@ -1041,14 +2118,46 @@ let products = [
             "wholesalePrice": 1800,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-28-1",
@@ -1062,7 +2171,15 @@ let products = [
                     "slug": "stul-khit-25mm-bronza-romb-korichnevyy"
                 }
             ],
-            "relatedColor": [10, 11, 19, 28, 43, 79]
+            "relatedColor": [
+                10,
+                11,
+                19,
+                28,
+                43,
+                79
+            ],
+            "vendorId": 3406
         },
         {
             "id": 29,
@@ -1076,13 +2193,41 @@ let products = [
             "wholesalePrice": 1900,
             "retailPrice": 2890,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-29-1"
@@ -1094,7 +2239,11 @@ let products = [
                     "slug": "stul-khit-25mm-serebro-mikrofibra-sinyaya"
                 }
             ],
-            "relatedColor": [29, 78]
+            "relatedColor": [
+                29,
+                78
+            ],
+            "vendorId": 3721
         },
         {
             "id": 30,
@@ -1108,14 +2257,46 @@ let products = [
             "wholesalePrice": 1850,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-30-1",
@@ -1129,7 +2310,10 @@ let products = [
                     "slug": "stul-khit-25mm-zoloto-kross-bezhevyy"
                 }
             ],
-            "relatedColor": [34]
+            "relatedColor": [
+                34
+            ],
+            "vendorId": 3722
         },
         {
             "id": 34,
@@ -1143,12 +2327,36 @@ let products = [
             "wholesalePrice": 1900,
             "retailPrice": 2890,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-34-1",
@@ -1167,7 +2375,17 @@ let products = [
                     "slug": "stul-khit-20mm-bronza-shenill-korichnevyy"
                 }
             ],
-            "relatedColor": [12, 21, 23, 24, 34, 51, 70, 75]
+            "relatedColor": [
+                12,
+                21,
+                23,
+                24,
+                34,
+                51,
+                70,
+                75
+            ],
+            "vendorId": 7667
         },
         {
             "id": 35,
@@ -1180,14 +2398,46 @@ let products = [
             },
             "wholesalePrice": 2600,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-35-1",
@@ -1204,7 +2454,10 @@ let products = [
                     "slug": "stul-khit-25mm-s-polkoy-dlya-bumag"
                 }
             ],
-            "relatedColor": [35]
+            "relatedColor": [
+                35
+            ],
+            "vendorId": 11476
         },
         {
             "id": 36,
@@ -1218,13 +2471,41 @@ let products = [
             "wholesalePrice": 2050,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Материал сиденья", "value" : "велюр", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "велюр",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-36-1",
@@ -1238,7 +2519,14 @@ let products = [
                     "slug": "stul-khit-25mm-serebro-velyur-seryy"
                 }
             ],
-            "relatedColor": [36, 46, 52, 80, 84]
+            "relatedColor": [
+                36,
+                46,
+                52,
+                80,
+                84
+            ],
+            "vendorId": 13134
         },
         {
             "id": 37,
@@ -1252,13 +2540,41 @@ let products = [
             "wholesalePrice": 1800,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-37-1",
@@ -1272,7 +2588,15 @@ let products = [
                     "slug": "stul-khit-25mm-serebro-rogozhka-temno-seraya-tempo-9-2"
                 }
             ],
-            "relatedColor": [15, 25, 37, 47, 49, 50]
+            "relatedColor": [
+                15,
+                25,
+                37,
+                47,
+                49,
+                50
+            ],
+            "vendorId": 13369
         },
         {
             "id": 38,
@@ -1286,15 +2610,42 @@ let products = [
             "wholesalePrice": 4290,
             "retailPrice": 6490,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "алюминий", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "алюминий",
+                    "unit": ""
+                }
             ],
-
             "images": [
                 "product-38-1",
                 "product-38-2",
@@ -1314,7 +2665,27 @@ let products = [
                     "slug": "khit-20mm-alyuminiyevyy-karkas-zoloto-krasnaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 8753
         },
         {
             "id": 39,
@@ -1328,13 +2699,41 @@ let products = [
             "wholesalePrice": 1950,
             "retailPrice": 2500,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "кожзам", "unit": ""  },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "кожзам",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-39-1",
@@ -1354,7 +2753,15 @@ let products = [
                     "slug": "khit-20mm-kozhzam"
                 }
             ],
-            "relatedColor": [3, 4, 9, 39, 41, 81]
+            "relatedColor": [
+                3,
+                4,
+                9,
+                39,
+                41,
+                81
+            ],
+            "vendorId": 40
         },
         {
             "id": 40,
@@ -1367,15 +2774,42 @@ let products = [
             },
             "wholesalePrice": 3450,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "4,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "алюминий", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "4,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "алюминий",
+                    "unit": ""
+                }
             ],
-
             "images": [
                 "product-40-1",
                 "product-40-2",
@@ -1394,7 +2828,27 @@ let products = [
                     "slug": "khit-20mm-alyuminiyevyy-karkas"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 53
         },
         {
             "id": 41,
@@ -1407,14 +2861,46 @@ let products = [
             },
             "wholesalePrice": 2050,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "580", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "460", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "кожзам", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "580",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "460",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "кожзам",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-41-1",
@@ -1427,7 +2913,15 @@ let products = [
                     "slug": "khit-20mm-khrom-kozhzam"
                 }
             ],
-            "relatedColor": [3, 4, 9, 39, 41, 81]
+            "relatedColor": [
+                3,
+                4,
+                9,
+                39,
+                41,
+                81
+            ],
+            "vendorId": 344
         },
         {
             "id": 42,
@@ -1441,14 +2935,46 @@ let products = [
             "wholesalePrice": 2140,
             "retailPrice": 3290,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-42-1",
@@ -1468,7 +2994,27 @@ let products = [
                     "slug": "khit-20mm-zoloto-krasnaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 54556
         },
         {
             "id": 43,
@@ -1482,13 +3028,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-43-1",
@@ -1502,7 +3076,15 @@ let products = [
                     "slug": "khit-20mm-zoloto-bezhevyy-romb"
                 }
             ],
-            "relatedColor": [10, 11, 19, 28, 43, 79]
+            "relatedColor": [
+                10,
+                11,
+                19,
+                28,
+                43,
+                79
+            ],
+            "vendorId": 347
         },
         {
             "id": 44,
@@ -1516,13 +3098,41 @@ let products = [
             "wholesalePrice": 1950,
             "retailPrice": 2990,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-44-1",
@@ -1537,7 +3147,27 @@ let products = [
                     "slug": "khit-20mm-antik-serebro-korona-sinyaya"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 374
         },
         {
             "id": 45,
@@ -1551,13 +3181,41 @@ let products = [
             "wholesalePrice": 1950,
             "retailPrice": 2990,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-45-1",
@@ -1572,7 +3230,15 @@ let products = [
                     "slug": "khit-20mm-antik-med-arsh-temno-korichnevyy"
                 }
             ],
-            "relatedColor": [13, 18, 20, 45, 54, 82]
+            "relatedColor": [
+                13,
+                18,
+                20,
+                45,
+                54,
+                82
+            ],
+            "vendorId": 375
         },
         {
             "id": 46,
@@ -1586,13 +3252,41 @@ let products = [
             "wholesalePrice": 1950,
             "retailPrice": 2990,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "велюр", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "велюр",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-46-1",
@@ -1607,7 +3301,14 @@ let products = [
                     "slug": "khit-20mm-antik-serebro-velyur-seryy"
                 }
             ],
-            "relatedColor": [36, 46, 52, 80, 84]
+            "relatedColor": [
+                36,
+                46,
+                52,
+                80,
+                84
+            ],
+            "vendorId": 376
         },
         {
             "id": 47,
@@ -1621,13 +3322,41 @@ let products = [
             "wholesalePrice": 2000,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-47-1",
@@ -1642,7 +3371,15 @@ let products = [
                     "slug": "khit-20mm-antik-zoloto-na-belom-rogozhka-bezhevaya"
                 }
             ],
-            "relatedColor": [15, 25, 37, 47, 49, 50]
+            "relatedColor": [
+                15,
+                25,
+                37,
+                47,
+                49,
+                50
+            ],
+            "vendorId": 377
         },
         {
             "id": 48,
@@ -1656,13 +3393,41 @@ let products = [
             "wholesalePrice": 2100,
             "retailPrice": 3190,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-48-1",
@@ -1682,7 +3447,27 @@ let products = [
                     "slug": "khit-20mm-zoloto-korona-zelenaya"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 492
         },
         {
             "id": 49,
@@ -1696,13 +3481,41 @@ let products = [
             "wholesalePrice": 1650,
             "retailPrice": 2490,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-49-1",
@@ -1717,7 +3530,15 @@ let products = [
                     "slug": "khit-20mm-layt-serebro-rogozhka-seraya"
                 }
             ],
-            "relatedColor": [15, 25, 37, 47, 49, 50]
+            "relatedColor": [
+                15,
+                25,
+                37,
+                47,
+                49,
+                50
+            ],
+            "vendorId": 515
         },
         {
             "id": 50,
@@ -1731,13 +3552,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-50-1",
@@ -1752,7 +3601,15 @@ let products = [
                     "slug": "khit-20mm-zoloto-rogozhka-fioletovaya"
                 }
             ],
-            "relatedColor": [15, 25, 37, 47, 49, 50]
+            "relatedColor": [
+                15,
+                25,
+                37,
+                47,
+                49,
+                50
+            ],
+            "vendorId": 518
         },
         {
             "id": 51,
@@ -1766,13 +3623,41 @@ let products = [
             "wholesalePrice": 1750,
             "retailPrice": 2690,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "шенилл", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "шенилл",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-51-1",
@@ -1787,7 +3672,17 @@ let products = [
                     "slug": "khit-20mm-serebro-shenill-krasnyy"
                 }
             ],
-            "relatedColor": [12, 21, 23, 24, 34, 51, 70, 75]
+            "relatedColor": [
+                12,
+                21,
+                23,
+                24,
+                34,
+                51,
+                70,
+                75
+            ],
+            "vendorId": 587
         },
         {
             "id": 52,
@@ -1801,13 +3696,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "велюр", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "велюр",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-52-1",
@@ -1822,7 +3745,14 @@ let products = [
                     "slug": "khit-20mm-svetloye-zoloto-velyur-goluboy"
                 }
             ],
-            "relatedColor": [36, 46, 52, 80, 84]
+            "relatedColor": [
+                36,
+                46,
+                52,
+                80,
+                84
+            ],
+            "vendorId": 599
         },
         {
             "id": 54,
@@ -1836,13 +3766,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-54-1"
@@ -1859,7 +3817,15 @@ let products = [
                     "slug": "khit-20mm-zoloto-arsh-temno-korichnevyj"
                 }
             ],
-            "relatedColor": [13, 18, 20, 45, 54, 82]
+            "relatedColor": [
+                13,
+                18,
+                20,
+                45,
+                54,
+                82
+            ],
+            "vendorId": 7665
         },
         {
             "id": 56,
@@ -1873,13 +3839,41 @@ let products = [
             "wholesalePrice": 3590,
             "retailPrice": 5390,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "алюминий", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "алюминий",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-56-1",
@@ -1898,7 +3892,27 @@ let products = [
                     "slug": "khit-20mm-alyuminiyevyy-karkas-zoloto-krasnaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 762
         },
         {
             "id": 57,
@@ -1912,14 +3926,46 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-57-1"
@@ -1931,7 +3977,10 @@ let products = [
                     "slug": "khit-20mm-polosa-uzkaya-sinyaya"
                 }
             ],
-            "relatedColor": [57]
+            "relatedColor": [
+                57
+            ],
+            "vendorId": 942
         },
         {
             "id": 60,
@@ -1945,13 +3994,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-60-1",
@@ -1968,7 +4045,10 @@ let products = [
                     "slug": "khit-20mm-zoloto-zigzag-seryy"
                 }
             ],
-            "relatedColor": [60]
+            "relatedColor": [
+                60
+            ],
+            "vendorId": 1666
         },
         {
             "id": 62,
@@ -1982,13 +4062,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2100,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-62-1",
@@ -2005,7 +4113,11 @@ let products = [
                     "slug": "khit-20mm-zoloto-start-seryy"
                 }
             ],
-            "relatedColor": [62, 63]
+            "relatedColor": [
+                62,
+                63
+            ],
+            "vendorId": 1669
         },
         {
             "id": 63,
@@ -2019,13 +4131,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-63-1",
@@ -2042,7 +4182,11 @@ let products = [
                     "slug": "khit-20mm-zoloto-start-krasnyy"
                 }
             ],
-            "relatedColor": [62, 63]
+            "relatedColor": [
+                62,
+                63
+            ],
+            "vendorId": 1670
         },
         {
             "id": 66,
@@ -2056,13 +4200,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-66-1",
@@ -2079,7 +4251,10 @@ let products = [
                     "slug": "khit-20mm-zoloto-sabo-chernyy"
                 }
             ],
-            "relatedColor": [66]
+            "relatedColor": [
+                66
+            ],
+            "vendorId": 1674
         },
         {
             "id": 69,
@@ -2093,13 +4268,41 @@ let products = [
             "wholesalePrice": 1890,
             "retailPrice": 2890,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-69-1"
@@ -2116,7 +4319,27 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-bezhevaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 2776
         },
         {
             "id": 70,
@@ -2130,12 +4353,36 @@ let products = [
             "wholesalePrice": 1800,
             "retailPrice": 2790,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "шенилл", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "шенилл",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-70-1",
@@ -2149,7 +4396,17 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-shenill-krasnyy"
                 }
             ],
-            "relatedColor": [12, 21, 23, 24, 34, 51, 70, 75]
+            "relatedColor": [
+                12,
+                21,
+                23,
+                24,
+                34,
+                51,
+                70,
+                75
+            ],
+            "vendorId": 3505
         },
         {
             "id": 71,
@@ -2163,13 +4420,41 @@ let products = [
             "wholesalePrice": 1890,
             "retailPrice": 2890,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-71-1"
@@ -2186,7 +4471,27 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-korichnevaya-korona"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 4125
         },
         {
             "id": 75,
@@ -2200,13 +4505,41 @@ let products = [
             "wholesalePrice": 1750,
             "retailPrice": 2690,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-75-1"
@@ -2223,7 +4556,17 @@ let products = [
                     "slug": "stul-khit-20mm-bronza-shenill-korichnevyy"
                 }
             ],
-            "relatedColor": [12, 21, 23, 24, 34, 51, 70, 75]
+            "relatedColor": [
+                12,
+                21,
+                23,
+                24,
+                34,
+                51,
+                70,
+                75
+            ],
+            "vendorId": 7296
         },
         {
             "id": 78,
@@ -2237,13 +4580,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "микрофибра", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "микрофибра",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-78-1"
@@ -2255,7 +4626,11 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-mikrofibra-krasnaya"
                 }
             ],
-            "relatedColor": [29, 78]
+            "relatedColor": [
+                29,
+                78
+            ],
+            "vendorId": 8341
         },
         {
             "id": 79,
@@ -2269,13 +4644,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-79-1",
@@ -2289,7 +4692,15 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-romb-siniy"
                 }
             ],
-            "relatedColor": [10, 11, 19, 28, 43, 79]
+            "relatedColor": [
+                10,
+                11,
+                19,
+                28,
+                43,
+                79
+            ],
+            "vendorId": 8343
         },
         {
             "id": 80,
@@ -2303,13 +4714,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-80-1"
@@ -2321,7 +4760,14 @@ let products = [
                     "slug": "stul-khit-20mm-shampan-velyur-goluboy"
                 }
             ],
-            "relatedColor": [36, 46, 52, 80, 84]
+            "relatedColor": [
+                36,
+                46,
+                52,
+                80,
+                84
+            ],
+            "vendorId": 8344
         },
         {
             "id": 81,
@@ -2335,13 +4781,41 @@ let products = [
             "wholesalePrice": 2000,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "кожзам", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "кожзам",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-81-1"
@@ -2353,7 +4827,15 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-kozhzam-temno-korichnevyy"
                 }
             ],
-            "relatedColor": [3, 4, 9, 39, 41, 81]
+            "relatedColor": [
+                3,
+                4,
+                9,
+                39,
+                41,
+                81
+            ],
+            "vendorId": 8346
         },
         {
             "id": 82,
@@ -2367,13 +4849,41 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-82-1"
@@ -2390,7 +4900,15 @@ let products = [
                     "slug": "stul-khit-20mm-shampan-arsh-bezhevyy"
                 }
             ],
-            "relatedColor": [13, 18, 20, 45, 54, 82]
+            "relatedColor": [
+                13,
+                18,
+                20,
+                45,
+                54,
+                82
+            ],
+            "vendorId": 13153
         },
         {
             "id": 83,
@@ -2404,13 +4922,41 @@ let products = [
             "wholesalePrice": 1890,
             "retailPrice": 2890,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-83-1",
@@ -2429,7 +4975,27 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-korona-sinyaya"
                 }
             ],
-            "relatedColor": [1, 5, 6, 7, 2, 16, 26, 8, 27, 38, 42, 44, 48, 40, 56, 69, 71, 83]
+            "relatedColor": [
+                1,
+                5,
+                6,
+                7,
+                2,
+                16,
+                26,
+                8,
+                27,
+                38,
+                42,
+                44,
+                48,
+                40,
+                56,
+                69,
+                71,
+                83
+            ],
+            "vendorId": 13256
         },
         {
             "id": 84,
@@ -2443,14 +5009,46 @@ let products = [
             "wholesalePrice": 1700,
             "retailPrice": 2590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-84-1"
@@ -2462,7 +5060,14 @@ let products = [
                     "slug": "stul-khit-20mm-zoloto-velyur-zheltyy"
                 }
             ],
-            "relatedColor": [36, 46, 52, 80, 84]
+            "relatedColor": [
+                36,
+                46,
+                52,
+                80,
+                84
+            ],
+            "vendorId": 13648
         },
         {
             "id": 85,
@@ -2476,13 +5081,41 @@ let products = [
             "wholesalePrice": 4650,
             "retailPrice": 6990,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "7", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "алюминий", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "7",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "алюминий",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-85-1",
@@ -2499,7 +5132,12 @@ let products = [
                     "slug": "khit-20mm-s-pyupitrom-alyuminiyevyy-karkas"
                 }
             ],
-            "relatedColor": [85, 86, 87]
+            "relatedColor": [
+                85,
+                86,
+                87
+            ],
+            "vendorId": 54
         },
         {
             "id": 86,
@@ -2513,13 +5151,41 @@ let products = [
             "wholesalePrice": 2700,
             "retailPrice": 4090,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "9,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "9,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-86-1",
@@ -2532,7 +5198,12 @@ let products = [
                     "slug": "khit-25mm-s-pyupitrom-krasnyj"
                 }
             ],
-            "relatedColor": [85, 86, 87]
+            "relatedColor": [
+                85,
+                86,
+                87
+            ],
+            "vendorId": 83
         },
         {
             "id": 87,
@@ -2546,13 +5217,41 @@ let products = [
             "wholesalePrice": 2250,
             "retailPrice": 3390,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "8,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "8,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-87-1",
@@ -2567,7 +5266,12 @@ let products = [
                     "slug": "khit-20mm-s-pyupitrom-zhakkard"
                 }
             ],
-            "relatedColor": [85, 86, 87]
+            "relatedColor": [
+                85,
+                86,
+                87
+            ],
+            "vendorId": 235
         },
         {
             "id": 88,
@@ -2581,13 +5285,41 @@ let products = [
             "wholesalePrice": 2350,
             "retailPrice": 3590,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "8,5", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "8,5",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-88-1",
@@ -2604,7 +5336,10 @@ let products = [
                     "slug": "stul-khit-20mm-s-pyupitrom"
                 }
             ],
-            "relatedColor": [88]
+            "relatedColor": [
+                88
+            ],
+            "vendorId": 572
         },
         {
             "id": 89,
@@ -2617,12 +5352,36 @@ let products = [
             },
             "wholesalePrice": 4200,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-89-1",
@@ -2638,7 +5397,10 @@ let products = [
                     "slug": "khit-25mm-s-podlokotnikamy-i-pyupitrom"
                 }
             ],
-            "relatedColor": [89]
+            "relatedColor": [
+                89
+            ],
+            "vendorId": 1517
         },
         {
             "id": 91,
@@ -2652,13 +5414,41 @@ let products = [
             "wholesalePrice": 2500,
             "retailPrice": 3790,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-91-1",
@@ -2673,7 +5463,10 @@ let products = [
                     "slug": "stul-khit-25mm-s-podlokotnikami-shampan-afitap"
                 }
             ],
-            "relatedColor": [91]
+            "relatedColor": [
+                91
+            ],
+            "vendorId": 606
         },
         {
             "id": 92,
@@ -2687,13 +5480,41 @@ let products = [
             "wholesalePrice": 4800,
             "retailPrice": 6400,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "алюминий", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "алюминий",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-92-1",
@@ -2708,7 +5529,12 @@ let products = [
                     "slug": "khit-25mm-s-podlokotnikami-alyuminiyevyy-karkas"
                 }
             ],
-            "relatedColor": [90, 92, 98, 99]
+            "relatedColor": [
+                92,
+                98,
+                99
+            ],
+            "vendorId": 55
         },
         {
             "id": 94,
@@ -2722,14 +5548,46 @@ let products = [
             "wholesalePrice": 3490,
             "retailPrice": 5290,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "8,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "8,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-94-1",
@@ -2743,7 +5601,10 @@ let products = [
                     "slug": "khit-25mm-s-podlokotnikami-i-shirokim-sidenyem"
                 }
             ],
-            "relatedColor": [94]
+            "relatedColor": [
+                94
+            ],
+            "vendorId": 669
         },
         {
             "id": 95,
@@ -2757,13 +5618,41 @@ let products = [
             "wholesalePrice": 2990,
             "retailPrice": 4490,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-95-1",
@@ -2777,7 +5666,10 @@ let products = [
                     "slug": "khit-25mm-s-podlokotnikami-oreh-shennil-palmira"
                 }
             ],
-            "relatedColor": [95]
+            "relatedColor": [
+                95
+            ],
+            "vendorId": 686
         },
         {
             "id": 96,
@@ -2791,13 +5683,41 @@ let products = [
             "wholesalePrice": 4900,
             "retailPrice": 7390,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "8", "unit": "кг" },
-                { "name": "Обивка", "value" : "микровельвет", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "микровельвет",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-96-1",
@@ -2815,7 +5735,10 @@ let products = [
                     "slug": "khit-25mm-s-podlokotnikami-s-vyshivkoy-gerb-rf"
                 }
             ],
-            "relatedColor": [96]
+            "relatedColor": [
+                96
+            ],
+            "vendorId": 1211
         },
         {
             "id": 98,
@@ -2829,13 +5752,41 @@ let products = [
             "wholesalePrice": 4900,
             "retailPrice": 7390,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "6", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "алюминий", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "6",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "алюминий",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-98-1",
@@ -2851,7 +5802,12 @@ let products = [
                     "slug": "stul-khit-25mm-alyuminiyevyy-karkas-s-zakruglennymi-podlokotnikami-serebro-korona-sinyaya"
                 }
             ],
-            "relatedColor": [90, 92, 98, 99]
+            "relatedColor": [
+                92,
+                98,
+                99
+            ],
+            "vendorId": 8752
         },
         {
             "id": 99,
@@ -2865,13 +5821,41 @@ let products = [
             "wholesalePrice": 2600,
             "retailPrice": 3990,
             "characteristics": [
-                { "name": "Ширина", "value" : "420", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "420",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-99-1",
@@ -2887,7 +5871,12 @@ let products = [
                     "slug": "stul-khit-25mm-s-zakruglennymi-podlokotnikami-zoloto-korona-krasnaya"
                 }
             ],
-            "relatedColor": [90, 92, 98, 99]
+            "relatedColor": [
+                92,
+                98,
+                99
+            ],
+            "vendorId": 8754
         },
         {
             "id": 100,
@@ -2901,13 +5890,41 @@ let products = [
             "wholesalePrice": 2050,
             "retailPrice": 3090,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-100-1",
@@ -2922,7 +5939,76 @@ let products = [
                     "slug": "khit-20mm-s-podlokotnikami-layt"
                 }
             ],
-            "relatedColor": [93, 100, 101]
+            "relatedColor": [
+                100,
+                101
+            ],
+            "vendorId": 514
+        },
+        {
+            "id": 101,
+            "name": "Хит 20мм с подлокот&shy;никами, алюминие&shy;вый каркас",
+            "slug": "khit-20mm-s-podlokotnikami-alyuminiyevyy-karkas",
+            "category": "podlokotniki",
+            "color": "Черный",
+            "vendor": {
+                "uri": "https://chiedocover.ru/product/stul-khit-20mm-s-podlokotnikami-seryy"
+            },
+            "wholesalePrice": 4590,
+            "retailPrice": 6890,
+            "characteristics": [
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "алюминий",
+                    "unit": ""
+                }
+            ],
+            "images": [
+                "product-101-1",
+                "product-101-2"
+            ],
+            "relatedCategory": [
+                {
+                    "name": "profile20",
+                    "value": "20 мм",
+                    "slug": "khit-20mm-s-podlokotnikami-alyuminiyevyy-karkas"
+                }
+            ],
+            "relatedColor": [
+                100,
+                101
+            ],
+            "vendorId": 190
         },
         {
             "id": 102,
@@ -2935,14 +6021,46 @@ let products = [
             },
             "wholesalePrice": 2650,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал сиденья", "value" : "ткань", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал сиденья",
+                    "value": "ткань",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-102-1",
@@ -2958,7 +6076,11 @@ let products = [
                     "slug": "khit-20mm-s-karetnoy-styazhkoy-khrom-rogozhka-fioletovaya"
                 }
             ],
-            "relatedColor": [102, 103]
+            "relatedColor": [
+                102,
+                103
+            ],
+            "vendorId": 1595
         },
         {
             "id": 103,
@@ -2971,13 +6093,41 @@ let products = [
             },
             "wholesalePrice": 2850,
             "characteristics": [
-                { "name": "Ширина", "value" : "410", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "рогожка", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "410",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "рогожка",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-103-1",
@@ -2993,7 +6143,11 @@ let products = [
                     "slug": "stul-khit-20mm-s-karetnoy-styazhkoy-zoloto-kozhzam-goluboy"
                 }
             ],
-            "relatedColor": [102, 103]
+            "relatedColor": [
+                102,
+                103
+            ],
+            "vendorId": 3177
         },
         {
             "id": 104,
@@ -3007,9 +6161,21 @@ let products = [
             "wholesalePrice": 3150,
             "retailPrice": 4490,
             "characteristics": [
-                { "name": "Ширина", "value" : "390", "unit": "мм" },
-                { "name": "Высота", "value" : "950", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "390",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "950",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-104-1"
@@ -3021,7 +6187,11 @@ let products = [
                     "slug": "stul-khit-20mm-skladnoy-zoloto-sero-rozovyy-kozhzam"
                 }
             ],
-            "relatedColor": [104, 105]
+            "relatedColor": [
+                104,
+                105
+            ],
+            "vendorId": 13053
         },
         {
             "id": 105,
@@ -3034,9 +6204,21 @@ let products = [
             },
             "wholesalePrice": 3150,
             "characteristics": [
-                { "name": "Ширина", "value" : "390", "unit": "мм" },
-                { "name": "Высота", "value" : "950", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "390",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "950",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-105-1",
@@ -3050,7 +6232,11 @@ let products = [
                     "slug": "stul-khit-20mm-skladnoy-serebro-bezhevyy-kozhzam"
                 }
             ],
-            "relatedColor": [104, 105]
+            "relatedColor": [
+                104,
+                105
+            ],
+            "vendorId": 7158
         },
         {
             "id": 106,
@@ -3063,13 +6249,41 @@ let products = [
             },
             "wholesalePrice": 3150,
             "characteristics": [
-                { "name": "Ширина", "value" : "370", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "450", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "370",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "450",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-106-1"
@@ -3081,7 +6295,13 @@ let products = [
                     "slug": "stul-khit-20mm-skladnoy-zoloto-korona-zelenaya"
                 }
             ],
-            "relatedColor": [106, 108, 109, 110]
+            "relatedColor": [
+                106,
+                108,
+                109,
+                110
+            ],
+            "vendorId": 3325
         },
         {
             "id": 107,
@@ -3094,10 +6314,26 @@ let products = [
             },
             "wholesalePrice": 3150,
             "characteristics": [
-                { "name": "Ширина", "value" : "390", "unit": "мм" },
-                { "name": "Высота", "value" : "950", "unit": "мм" },
-                { "name": "Высота посадочного места", "value" : "465", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "390",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "950",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота посадочного места",
+                    "value": "465",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-107-1",
@@ -3111,7 +6347,10 @@ let products = [
                     "slug": "stul-khit-20mm-skladnoy-serebro-chernyy"
                 }
             ],
-            "relatedColor": [107]
+            "relatedColor": [
+                107
+            ],
+            "vendorId": 7157
         },
         {
             "id": 108,
@@ -3124,12 +6363,36 @@ let products = [
             },
             "wholesalePrice": 3150,
             "characteristics": [
-                { "name": "Ширина", "value" : "390", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "450", "unit": "мм" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "390",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "450",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-108-1"
@@ -3141,7 +6404,13 @@ let products = [
                     "slug": "stul-khit-20mm-skladnoy-serebro-korona-zelenaya"
                 }
             ],
-            "relatedColor": [106, 108, 109, 110]
+            "relatedColor": [
+                106,
+                108,
+                109,
+                110
+            ],
+            "vendorId": 3324
         },
         {
             "id": 109,
@@ -3154,13 +6423,41 @@ let products = [
             },
             "wholesalePrice": 3150,
             "characteristics": [
-                { "name": "Ширина", "value" : "370", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Высота до сиденья", "value" : "370", "unit": "мм" },
-                { "name": "Вес", "value" : "5,8", "unit": "кг" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "370",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота до сиденья",
+                    "value": "370",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Вес",
+                    "value": "5,8",
+                    "unit": "кг"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-109-1"
@@ -3172,7 +6469,13 @@ let products = [
                     "slug": "stul-khit-20mm-skladnoy-zoloto-korona-krasnaya"
                 }
             ],
-            "relatedColor": [106, 108, 109, 110]
+            "relatedColor": [
+                106,
+                108,
+                109,
+                110
+            ],
+            "vendorId": 3323
         },
         {
             "id": 110,
@@ -3185,11 +6488,31 @@ let products = [
             },
             "wholesalePrice": 3150,
             "characteristics": [
-                { "name": "Ширина", "value" : "370", "unit": "мм" },
-                { "name": "Глубина", "value" : "560", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Обивка", "value" : "жаккард", "unit": "" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "370",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "560",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Обивка",
+                    "value": "жаккард",
+                    "unit": ""
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-110-1",
@@ -3204,7 +6527,13 @@ let products = [
                     "slug": "stul-khit-20mm-skladnoy-serebro-korona-sinyaya"
                 }
             ],
-            "relatedColor": [106, 108, 109, 110]
+            "relatedColor": [
+                106,
+                108,
+                109,
+                110
+            ],
+            "vendorId": 3179
         },
         {
             "id": 111,
@@ -3218,10 +6547,26 @@ let products = [
             "wholesalePrice": 4590,
             "retailPrice": 6890,
             "characteristics": [
-                { "name": "Ширина", "value" : "910", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "910",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-111-1",
@@ -3236,7 +6581,12 @@ let products = [
                     "slug": ""
                 }
             ],
-            "relatedColor": [112, 113, 114]
+            "relatedColor": [
+                112,
+                113,
+                114
+            ],
+            "vendorId": 3454
         },
         {
             "id": 112,
@@ -3250,10 +6600,26 @@ let products = [
             "wholesalePrice": 4590,
             "retailPrice": 6890,
             "characteristics": [
-                { "name": "Ширина", "value" : "910", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "910",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-112-1",
@@ -3268,7 +6634,12 @@ let products = [
                     "slug": ""
                 }
             ],
-            "relatedColor": [111, 113, 114]
+            "relatedColor": [
+                111,
+                113,
+                114
+            ],
+            "vendorId": 3452
         },
         {
             "id": 113,
@@ -3282,10 +6653,26 @@ let products = [
             "wholesalePrice": 4590,
             "retailPrice": 6890,
             "characteristics": [
-                { "name": "Ширина", "value" : "910", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "910",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-113-1",
@@ -3300,7 +6687,12 @@ let products = [
                     "slug": ""
                 }
             ],
-            "relatedColor": [112, 111, 114]
+            "relatedColor": [
+                112,
+                111,
+                114
+            ],
+            "vendorId": 3451
         },
         {
             "id": 114,
@@ -3314,10 +6706,26 @@ let products = [
             "wholesalePrice": 4590,
             "retailPrice": 6890,
             "characteristics": [
-                { "name": "Ширина", "value" : "910", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "910",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-114-1",
@@ -3332,7 +6740,12 @@ let products = [
                     "slug": ""
                 }
             ],
-            "relatedColor": [112, 113, 111]
+            "relatedColor": [
+                112,
+                113,
+                111
+            ],
+            "vendorId": 3453
         },
         {
             "id": 115,
@@ -3346,10 +6759,26 @@ let products = [
             "wholesalePrice": 6990,
             "retailPrice": 10490,
             "characteristics": [
-                { "name": "Ширина", "value" : "1400", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "1400",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-115-1",
@@ -3364,7 +6793,12 @@ let products = [
                     "slug": ""
                 }
             ],
-            "relatedColor": [116, 117, 118]
+            "relatedColor": [
+                116,
+                117,
+                118
+            ],
+            "vendorId": 3454
         },
         {
             "id": 116,
@@ -3378,10 +6812,26 @@ let products = [
             "wholesalePrice": 6990,
             "retailPrice": 10490,
             "characteristics": [
-                { "name": "Ширина", "value" : "1400", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "1400",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-116-1",
@@ -3395,7 +6845,12 @@ let products = [
                     "slug": ""
                 }
             ],
-            "relatedColor": [115, 117, 118]
+            "relatedColor": [
+                115,
+                117,
+                118
+            ],
+            "vendorId": 3584
         },
         {
             "id": 117,
@@ -3409,10 +6864,26 @@ let products = [
             "wholesalePrice": 6990,
             "retailPrice": 10490,
             "characteristics": [
-                { "name": "Ширина", "value" : "1400", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "1400",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-117-1",
@@ -3426,7 +6897,12 @@ let products = [
                     "slug": ""
                 }
             ],
-            "relatedColor": [115, 116, 118]
+            "relatedColor": [
+                115,
+                116,
+                118
+            ],
+            "vendorId": 3575
         },
         {
             "id": 118,
@@ -3440,10 +6916,26 @@ let products = [
             "wholesalePrice": 6990,
             "retailPrice": 10490,
             "characteristics": [
-                { "name": "Ширина", "value" : "1400", "unit": "мм" },
-                { "name": "Глубина", "value" : "570", "unit": "мм" },
-                { "name": "Высота", "value" : "940", "unit": "мм" },
-                { "name": "Материал каркаса", "value" : "сталь", "unit": "" }
+                {
+                    "name": "Ширина",
+                    "value": "1400",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Глубина",
+                    "value": "570",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Высота",
+                    "value": "940",
+                    "unit": "мм"
+                },
+                {
+                    "name": "Материал каркаса",
+                    "value": "сталь",
+                    "unit": ""
+                }
             ],
             "images": [
                 "product-118-1",
@@ -3457,7 +6949,12 @@ let products = [
                     "slug": ""
                 }
             ],
-            "relatedColor": [115, 116, 117]
+            "relatedColor": [
+                115,
+                116,
+                117
+            ],
+            "vendorId": 3585
         }
     ];
 // Функция для обновления данных продукта с новой ценой
